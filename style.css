@@ -196,7 +196,7 @@ This code controls that cool parallax image and scrolling effect. Change the ima
 
 
 .parallax {
-    background-image: url("cathy.jpg");
+    background-image: url("Cathy.jpg");
 
     /* Set a specific height. If you do want textual content in your parallax section you'll need to make sure that it properly fits the size you've alotted. You can opt not to set a height and just rely on it to cover (see background size below). */
     height: 600px;
